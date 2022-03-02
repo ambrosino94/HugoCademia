@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: strawberry
+  theme_night: dark
+  font: Classic
+  font_size: l
 
 # SEO
 
@@ -34,14 +34,15 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_translations: true
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Giacomo E. Ambrosino (A94) @Learnrz. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -64,7 +65,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
@@ -79,7 +80,7 @@ features:
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'learnrz'
       show_count: true
     commento:
       url: ''
