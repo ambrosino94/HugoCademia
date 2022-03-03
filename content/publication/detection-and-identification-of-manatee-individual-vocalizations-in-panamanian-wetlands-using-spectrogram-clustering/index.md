@@ -34,8 +34,9 @@ abstract: This work presents a methodology to automatically detect and identify
   population.
 draft: false
 featured: true
+url_pdf: "publication/detection-and-identification-of-manatee-individual-vocalizations-in-panamanian-wetlands-using-spectrogram-clustering/manatee_det.pdf"
 image:
-  filename: https://www.misionmanati.org/wp-content/uploads/2020/06/R2DHZTJKRBGDLP3ZMXAI3NS65I.jpg
+  filename:
   focal_point: TOPRIGHT
   preview_only: false
   caption: "crédito: [**misión
