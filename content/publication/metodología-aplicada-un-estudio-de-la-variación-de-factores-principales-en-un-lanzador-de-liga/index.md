@@ -30,6 +30,7 @@ abstract: This paper documents the effect of the main factors variation that
   with the expected distance.
 draft: false
 featured: false
+url_pdf: "publication/ReporteResultados.pdf"
 image:
   filename: affcb2fd-233f-43cd-9a77-2a7b1bac1a1c.png
   focal_point: Smart
