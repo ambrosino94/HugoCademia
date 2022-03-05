@@ -1,14 +1,4 @@
 ---
-title: "Metodología aplicada: Un estudio de la variación de factores principales
-  en un lanzador de liga"
-subtitle: "Applied methodology: A study of the variation of main factors in a
-  rubber band launcher"
-publication_types:
-  - "3"
-authors:
-  - admin
-author_notes:
-  - Universidad Tecnológica de Panamá
 abstract: This paper documents the effect of the main factors variation that
   alter the launch of a slingshot powered device that throws latex rubber
   bands.  As an exploratory journey into the valuable resources that scientific
@@ -29,10 +19,20 @@ abstract: This paper documents the effect of the main factors variation that
   device and it was possible to determine which blocks of combinations complied
   with the expected distance.
 draft: false
+url_pdf: publication/metodologia-aplicada-un-estudio-de-la-variacion-de-factores-principales-en-un-lanzador-de-liga/reporte_exp.pdf
+title: "Metodología aplicada: Un estudio de la variación de factores principales
+  en un lanzador de liga"
+subtitle: "Applied methodology: A study of the variation of main factors in a
+  rubber band launcher"
+publication_types:
+  - "3"
+authors:
+  - admin
+author_notes:
+  - Universidad Tecnológica de Panamá
 featured: false
-url_pdf: "publication/metodologia-aplicada-un-estudio-de-la-variacion-de-factores-principales-en-un-lanzador-de-liga/reporte_exp.pdf"
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-03-05T04:30:01.424Z
