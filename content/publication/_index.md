@@ -8,7 +8,7 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 view: 4
-url_pdf: "publication/ReporteResultado.pdf"
+url_pdf: "publication/ReporteResultados.pdf"
 
 header:
   caption: ""
