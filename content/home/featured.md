@@ -11,6 +11,7 @@ weight: 80
 
 title: Featured Publications
 subtitle: ""
+active: false
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -32,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

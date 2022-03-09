@@ -30,9 +30,13 @@ experience:
     date_start: '2019-07-01'
     date_end: '2021-07-01'
     description: |2-
-      * Durante el año académico 2019 - 2020, tuve la tarea de impartir clases de matemáticas a 3er y 4to grado desde un punto de vista más moderno, usando gamificación en clases e implementando herramientas tecnológicas del tipo de plataformas asistentes a la educación como Google Classroom, entre otras.
+      * Durante el año académico 2019 - 2020, tuve la tarea de impartir clases de matemáticas a 3er y 4to grado desde un punto de vista más moderno, usando gamificación en clases e implementando herramientas tecnológicas como plataformas asistentes a la educación como Google Classroom, entre otras.
       * Durante el año académico 2020 - 2021, frente a las vicisitudes de la pandemia COVID-19, se le dio la tarea de co-coordinar el planeamiento académico virtual de 5to grado en matemáticas, el cual lo enfocó a un gran número de actividades y asignaciones didácticas incentivando la investigación y el pensamiento ingenieril.
-      * Durante ese mismo año académico 2020 - 2021, fue asignado como único profesor del primer curso de programación para 10mo grado, lo cual le conllevo a diseñar el pénsum curricular de la materia, la cual fue enfocada en 3 áreas impartidas por cada trimestre: 1) Introducción a la programación con `Processing.js`, 2) Aplicación de la programación en `Google Spreadsheet`/`AppScript` y finalmente, 3) Programación contemporánea en `Python 3.0`.
+      * Durante ese mismo año académico 2020 - 2021, fue asignado como único profesor del primer curso de programación para 10mo grado, lo cual le conllevo a diseñar el pénsum curricular de la materia, la cual fue enfocada en 3 áreas impartidas por cada trimestre:
+
+      - [ ] Introducción a la programación con `Processing.js`.
+      - [ ] Aplicación de la programación en `Google Spreadsheet`/`AppScript`.
+      - [ ] Programación contemporánea en `Python 3.0`.
 
   - title: Analista de Datos/Programador
     company: TeraSmart
@@ -44,7 +48,6 @@ experience:
     description: |2-
       Encargado de:
       * Monitorear e interpretar estadísticas de diversos Key Performance Metrics (KPIs), tales como: `tasas de conversión`, `click-through-rate`, `bounce-rate`, etc., para los distintos departamentos de la empresa enfocados en e-commerce.
-      Taught electronic engineering and researched semiconductor physics.
       * Buscar conseguir la implementación de modelos predictivos basados en la interpretación del comportamiento de los usuarios.
 
 
