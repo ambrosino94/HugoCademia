@@ -14,7 +14,7 @@ organizations:
   url: https://www.utp.ac.pa/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Un músico viviendo sin pagar renta en la mente de un ingeniero impulsado por una famélica curiosidad.
+bio: Un músico viviendo libre de renta en la mente de un ingeniero impulsado por una famélica curiosidad.
 
 # Interests to show in About widget
 interests:
@@ -57,13 +57,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ambrosinotech@gamil.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Giacomo es un músico viviendo sin pagar renta en la mente de un ingeniero con una gran curiosidad. Le apasiona la electrónica enfocándose en áreas como electrónica de potencia, optoelectrónica, de audio y digital. En el ámbito profesional y académico ha manifestado destreza en el área de Procesamiento y Tratamiento Digital de Señales (DSP) asistiendo a estudios de investigación del {{< staticref "https://stri.si.edu/story/eavesdropping" "newtab" >}}Smithsonian Tropical Research Institute{{< /staticref >}} (STRI) implementando esquemas y algoritmos de detección de señales biofónicas y diseñando soluciones para sus distintas etapas.
+Giacomo es un músico viviendo libre de renta en la mente de un ingeniero con una gran curiosidad. Le apasiona la electrónica enfocándose en áreas como electrónica de potencia, optoelectrónica, de audio y digital. En el ámbito profesional y académico ha manifestado destreza en el área de Procesamiento y Tratamiento Digital de Señales (DSP) asistiendo a estudios de investigación del {{< staticref "https://stri.si.edu/story/eavesdropping" "newtab" >}}Smithsonian Tropical Research Institute{{< /staticref >}} (STRI) implementando esquemas y algoritmos de detección de señales biofónicas y diseñando soluciones para sus distintas etapas.
 
 Dentro de sus emprendimientos enfoca gran parte de sus esfuerzos al Diseño de Producto buscando encontrar cohesivas combinaciones entre el Diseño Electrónico y el Diseño Industrial en distintas aplicaciones cotidianas desde Joyería hasta dispositivos de tratamiento de audio para instrumentos electrónicos.
 

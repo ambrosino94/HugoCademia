@@ -3,6 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# In case the cache for the modules start messing with the build
+# hugo mod clean
+# hugo mod get -u ./...
+
+
 title: Vitae # Website name
 baseURL: 'https://a94.netlify.app/' # Website URL
 
