@@ -14,7 +14,7 @@ organizations:
   url: https://www.utp.ac.pa/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Un músico viviendo libre de renta en la mente de un ingeniero impulsado por una famélica curiosidad.
+bio: Un músico viviendo en la mente de un ingeniero impulsado por una famélica curiosidad.
 
 # Interests to show in About widget
 interests:
@@ -39,8 +39,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: link
+  icon_pack: fa
+  link: https://linktr.ee/ambrosino94
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.es/citations?user=jUE2MpQAAAAJ&hl=es&citsig=AMD79oqvsbAcZQTSBh_gqilzzhtF7NLmPw#
 - icon: github
   icon_pack: fab
@@ -63,7 +66,7 @@ email: "ambrosinotech@gamil.com"
 highlight_name: true
 ---
 
-Giacomo es un músico viviendo libre de renta en la mente de un ingeniero con una gran curiosidad. Le apasiona la electrónica enfocándose en áreas como electrónica de potencia, optoelectrónica, de audio y digital. En el ámbito profesional y académico ha manifestado destreza en el área de Procesamiento y Tratamiento Digital de Señales (DSP) asistiendo a estudios de investigación del {{< staticref "https://stri.si.edu/story/eavesdropping" "newtab" >}}Smithsonian Tropical Research Institute{{< /staticref >}} (STRI) implementando esquemas y algoritmos de detección de señales biofónicas y diseñando soluciones para sus distintas etapas.
+Giacomo es un músico viviendo en la mente de un ingeniero con una gran curiosidad. Le apasiona la electrónica enfocándose en áreas como electrónica de potencia, optoelectrónica, de audio y digital. En el ámbito profesional y académico ha manifestado destreza en el área de Procesamiento y Tratamiento Digital de Señales (DSP) asistiendo a estudios de investigación del {{< staticref "https://stri.si.edu/story/eavesdropping" "newtab" >}}Smithsonian Tropical Research Institute{{< /staticref >}} (STRI) implementando esquemas y algoritmos de detección de señales biofónicas y diseñando soluciones para sus distintas etapas.
 
 Dentro de sus emprendimientos enfoca gran parte de sus esfuerzos al Diseño de Producto buscando encontrar cohesivas combinaciones entre el Diseño Electrónico y el Diseño Industrial en distintas aplicaciones cotidianas desde Joyería hasta dispositivos de tratamiento de audio para instrumentos electrónicos.
 

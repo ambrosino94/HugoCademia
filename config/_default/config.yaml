@@ -47,6 +47,18 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
+  # This line below is used when facing this error message:
+  #
+  # "failed to resolve output format "headers" from site config"
+  #
+  # Change home to that and clear cache with:
+  # hugo mod clean
+  #
+  # Then refetch the mods again with:
+  # hugo mod get
+  # 
+  # Finally restore the home line to what it was.
+  # home: [] #[HTML, RSS  , JSON, WebAppManifest, headers, redirects]
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
