@@ -1,49 +1,31 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+#HugoCademia
+---
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
+Welcome to my portfolio! This page serves as an interactive CV showcasing my skills, projects, job experiences, and published scientific articles.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## About Me
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+I am a passionate data scientist and product design enthusiast with experience in signal processing, data analysis, machine learning and electronics. I have expertise working with different programming languages, mathematical analyses and visualization tools.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## Website
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+This project, which I called it from my side `HugoCademia`, works as an academic portfolio website and was developed using the [Hugo Academic Resumé Theme](https://github.com/wowchemy/starter-hugo-academic) from [**Wowchemy**](https://wowchemy.com), built with the HUGO framework. I took on this journey as a mean of exploring furthermore my knowledge on web framworks and web design in general and at the same time acquiring a portfolio site as a byproduct. The website features:
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
+- `Interactive Design`: The website provides an intuitive and visually appealing user interface, making it easy to navigate and explore my CV and projects.
+- `Responsive Layout`: The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
+- `Customization`: The Academic Resumé Template allows for easy customization of the website's content, layout, and styling to match my personal brand.
+- `Publications Section`: The website includes a dedicated section to showcase my published scientific articles, providing easy access to the full-text or abstracts of the publications.
+- `Project Showcase`: The projects section highlights my notable projects, providing descriptions, roles, and technologies used.
+- `Showcase Gallery`: It also counts with a gallery useful for showcasing visual aspects of my projects. Currently, I'm working modding this section of the template plus some curation of the pictures I'm planning to use for this section.
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Deployment
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+The portfolio website is deployed using `Netlify` and GitHub. `Netlify` allows for continuous deployment and automatic updates whenever changes are pushed to the GitHub repository. The deployment process ensures that the website is always up-to-date and accessible.
 
-## We ask you, humbly, to support this open source movement
+You can access the website at [A94](https://a94.netlify.app/).
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Feel free to explore the website and reach out to me for collaborations, suggestions or any inquiries.
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Thank you for visiting!
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-## Latest news
-<!--START_SECTION:news-->
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
-<!--END_SECTION:news-->
+###### A94
