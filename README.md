@@ -1,5 +1,4 @@
 # HugoCademia
----
 
 Welcome to my portfolio! This page serves as an interactive CV showcasing my skills, projects, job experiences, and published scientific articles.
 
