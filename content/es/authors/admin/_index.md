@@ -6,7 +6,7 @@ title: Giacomo E. Ambrosino
 superuser: true
 
 # Role/position/tagline
-role: Investigador de Procesamiento Digital de Señales
+role: Ingeniero en DSP y Entusiasta de Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,11 +19,12 @@ bio: Un músico viviendo en la mente de un ingeniero impulsado por una famélica
 # Interests to show in About widget
 interests:
 - Procesamiento Digital de Señales (DSP)
+- Data Science/Análisis de Datos
 - Diseño de Producto
-- Electrónica de Audio
+- Electrónica Digital
 - Ingeniería de sonido en vivo
 - Diseño e impresión 3D
-- Análisis de Datos
+
 
 # Education to show in About widget
 education:
@@ -69,7 +70,7 @@ highlight_name: true
 
 Giacomo es un músico viviendo en la mente de un ingeniero con una gran curiosidad. Le apasiona la electrónica enfocándose en áreas como electrónica de potencia, optoelectrónica, de audio y digital. En el ámbito profesional y académico ha manifestado destreza en el área de Procesamiento y Tratamiento Digital de Señales (DSP) asistiendo a estudios de investigación del {{< staticref "https://stri.si.edu/story/eavesdropping" "newtab" >}}Smithsonian Tropical Research Institute{{< /staticref >}} (STRI) implementando esquemas y algoritmos de detección de señales biofónicas y diseñando soluciones para las distintas etapas de sus proyectos.
 
-Dentro de sus emprendimientos enfoca gran parte de sus esfuerzos al Diseño de Producto buscando encontrar cohesivas combinaciones entre el Diseño Electrónico y el Diseño Industrial en distintas aplicaciones cotidianas desde Joyería hasta pedales de efectos para guitarras.
+Dentro de sus emprendimientos enfoca gran parte de sus esfuerzos al Diseño de Producto y modelado 3D buscando encontrar cohesivas combinaciones entre el Diseño Electrónico y el Diseño Industrial en distintas aplicaciones cotidianas desde Joyería hasta pedales de efectos para guitarras.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -50,13 +50,16 @@ content:
       icon_pack:
       name:
       link: ''
+    - icon: instagram
+      icon_pack: fab  
+      name: DM Me
+      link: 'https://www.instagram.com/ambrosino94/'
 
 design:
   columns: '2'
+    
 ---
+
 <!-- https://calendly.com for appointments -->
 
-<!-- - icon: instagram-square
-  icon_pack: fab
-  name: DM Me
-  link: 'https://www.instagram.com/ambrosino94/' -->
+

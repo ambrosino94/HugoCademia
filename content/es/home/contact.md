@@ -50,6 +50,10 @@ content:
       icon_pack:
       name:
       link: ''
+    - icon: instagram
+      icon_pack: fab  
+      name: Mensaje al directo.
+      link: 'https://www.instagram.com/ambrosino94/'
 
 design:
   columns: '2'

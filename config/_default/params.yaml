@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Giacomo E. Ambrosino (A94) @Learnrz. This work is licensed under {license}'
+    notice: '© {year} Giacomo E. Ambrosino (A94). This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

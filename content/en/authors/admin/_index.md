@@ -6,7 +6,7 @@ title: Giacomo E. Ambrosino
 superuser: true
 
 # Role/position/tagline
-role: Digital Signal Processing Researcher
+role: DSP Engineer & Data Science Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,11 +19,12 @@ bio: A musician living inside the mind of an engineer driven by his ferocious cu
 # Interests to show in About widget
 interests:
 - Digital Signal Processing (DSP)
+- Data Science/Data Analysis
 - Product Design
-- Audio Electronics
-- Live sound Engineering
+- Digital Electronics
+- Live Sound Engineering
 - 3D Design and Prototyping
-- Data Analysis
+
 
 # Education to show in About widget
 education:
@@ -35,7 +36,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@4example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -69,5 +70,5 @@ highlight_name: true
 
 Giacomo is a musician living inside the mind of an engineer with a vast curiosity. He's passionate about the intricate universe of electronics, specifically focusing in areas such as power electronics, optoelectronics, audio electronics and of course digital electronics. Professionally and academically he has shown a considerable proficiency in applications regarding Digital Signal Processing (DSP), assisting research studies for the {{< staticref "https://stri.si.edu/story/eavesdropping" "newtab" >}}Smithsonian Tropical Research Institute{{< /staticref >}} (STRI) implementing schemes and algorithms capable of detecting biophonic signals and designing solutions for different integration stages for their projects.
 
-Amongst its entrepeneurships, he invests a great amount of his efforts in Product Design aiming to find cohesive interactions between Electronics and Industrial Design in various day to day applications from Jewelry to guitar effect pedals.
+Amongst its entrepeneurships, he invests a great amount of his efforts in Product Design and 3D modeling aiming to find cohesive interactions between Electronics and Industrial Design in various day to day applications from Jewelry to guitar effect pedals.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

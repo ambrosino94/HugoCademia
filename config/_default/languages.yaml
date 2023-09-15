@@ -34,6 +34,9 @@ es:
      - name: Contacto
        url: '#contact'
        weight: 60
+     - name: Vitae
+       url: uploads/GEA_CV_2023.pdf
+       weight: 70
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
