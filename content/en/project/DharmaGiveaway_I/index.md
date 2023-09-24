@@ -346,7 +346,7 @@ comment date : 2023-07-19 22:43:59
 
 At this point, we proceed to analyze the content of the data stored in the .csv file, which will be structured as a `DataFrame`, essentially like a structured Excel table but without headers. We extract only unique usernames from the comment column to avoid repeating participants who commented more than once, and we successfully obtain the list of participants used in the raffle.
 
-![Comentarios](\\comentarios.jpg)
+![Commments](comentarios.jpg)
 
 ### Conclusions and Future Work
 

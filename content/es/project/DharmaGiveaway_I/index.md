@@ -379,7 +379,7 @@ comment date : 2023-07-19 22:43:59
 
 Ya una vez en este punto, procedemos a analizar el contenido de la data almacenada en el .csv el cual estará formateada o estructurada como un `dataFrame` es decir tal cual como una tabla estructurada de Excel, pero sin encabezado. Extraemos de la columna del nombre de usuario en cada comentario solamente los usuarios únicos para evitar repetir esos participantes que comentaron más de una vez y exitosamente logramos obtener el listado de participantes que se usó en la rifa. 
 
-![Comentarios](\\comentarios.jpg)
+![Comentarios](comentarios.jpg)
 
 
 
