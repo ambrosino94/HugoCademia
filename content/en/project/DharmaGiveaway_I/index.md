@@ -211,7 +211,7 @@ JSON Query to accounts/login/: Could not find "window._sharedData" in html respo
 JSON Query to accounts/login/: Could not find "window._sharedData" in html response.
 ```
 
-Without concrete evidence but without doubt, it seemed that the `HTML` request for the login attempt wasn't successful. Instagram's application layer protocols and beyond can be seen as strict bureaucratic procedures. Essentially, there was some kind of "form" that either wasn't submitted or wasn't filled out correctly at the recipient's end during the request process. After another exhaustive 3-hour research session, I found a solution that curiously dates back to 2022, but the Giveaway was in 2023.
+Without concrete evidence but without doubt, it seemed that the `HTML` request for the login attempt wasn't successful. Instagram's application layer protocols and beyond can be seen as strict bureaucratic procedures. Essentially, there was some kind of "form" that either wasn't submitted or wasn't filled out correctly at the recipient's end during the request process. After another exhaustive 3-hour research session, I found a solution that dates back to 2022.
 
 In essence, Instagram has security measures when requests are made using its `API`. It limits the number of requests an account can make in a given time period. Therefore, the solution involves avoiding sending login requests through a terminal and manually logging into the Instagram profile using the Firefox browser. Then, a `Python` script is executed to generate a session file copy and load it using instaloader's session instance methods, making Instagram believe it's a session recovery done in the browser — hence, `Gaslighting` brothers and sisters in Odin.
 
